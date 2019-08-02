@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1557403077 source:d:\progr\2 сем\oib\laba12\main.cpp
-	<stdio.h>
-	<Windows.h>
-	<Aclapi.h>
-	<conio.h>
-
